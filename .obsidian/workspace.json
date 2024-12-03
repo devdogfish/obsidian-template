@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "97d2d5d80b3b13ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9ef918a5cd03717",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d10a1c73dc1d94b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Templates/Full Note.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Full Note"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07e7f33799dcde96",
+    "type": "split",
+    "children": [
+      {
+        "id": "053154704da9d602",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5744714f929760ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4ca903377b4ff571",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1596e3b8b3cacee9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f5894aedf1ba31bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dbb6004ff3765cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ff43a9ff1214eff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6 - Main Notes/Monday 18-11-2024 Girls' types.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Monday 18-11-2024 Girls' types"
+            }
+          },
+          {
+            "id": "3cc6462210d38fcb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "850be42fbf2b193e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "16bdf2ab5e48f473",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "copilot:Copilot Chat": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d10a1c73dc1d94b6",
+  "lastOpenFiles": [
+    "1 - Rough Notes/Apply to hungarian University.md",
+    "1 - Rough Notes/Apply to UVIC.md",
+    "1 - Rough Notes/Halifax Universities.md",
+    "6 - Main Notes/My muscle measurement stats.md",
+    "6 - Main Notes/How the humans were created.md",
+    "6 - Main Notes/Theories.md",
+    "6 - Main Notes/The Ukranian War.md",
+    "6 - Main Notes/Bad boys.md",
+    "6 - Main Notes/Overcoming social anxiety.md",
+    "3 - Tags/Masculinity.md",
+    "3 - Tags/Journal.md",
+    "3 - Tags/Global Issues.md",
+    "3 - Tags/Wisdom.md",
+    "6 - Main Notes/10 years of wisdom.md",
+    "6 - Main Notes/First 4 cold approaches.md",
+    "6 - Main Notes/Flirting.md",
+    "3 - Tags/Girls.md",
+    "6 - Main Notes/Monday 18-11-2024 Girls' types.md",
+    "6 - Main Notes/Sunday 17-11-2024 - Friends Meet.md",
+    "1 - Rough Notes/Relatório da Etapa 2.md",
+    "6 - Main Notes/Sunday October 13, 5.50 pm - High as fuck.md",
+    "3 - Tags/Drugs.md",
+    "6 - Main Notes/Cannabis.md",
+    "6 - Main Notes/Rules - Important Life Advice.md",
+    "3 - Tags/Experiences.md",
+    "5 - Templates/Full Note.md",
+    "2 - Source Material/Attachments/Screenshot 2024-10-24 at 18.20.23.png",
+    "2 - Source Material/Attachments",
+    "mian",
+    "2 - Source Material/zones.pdf",
+    "2 - Source Material/Screenshot 2024-09-13 at 08.54.19.png",
+    "2 - Source Material/Screenshot 2024-09-13 at 09.06.15.png",
+    "2 - Source Material/Screenshot 2024-09-13 at 09.26.17.png",
+    "workspace.json",
+    "app.json",
+    "3 - Templates",
+    "4 - Main Quotes",
+    "2 - Indexes",
+    "1 - Rough Quotes"
+  ]
+}
